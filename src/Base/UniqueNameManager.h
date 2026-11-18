@@ -34,6 +34,9 @@
 #include <algorithm>
 #include <tuple>
 #include "UnlimitedUnsigned.h"
+#include <cstddef>
+#include <cstdint>
+#incldue <string_view>
 
 // ----------------------------------------------------------------------------
 
