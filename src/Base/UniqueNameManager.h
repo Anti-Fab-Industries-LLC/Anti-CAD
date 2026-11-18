@@ -36,7 +36,7 @@
 #include "UnlimitedUnsigned.h"
 #include <cstddef>
 #include <cstdint>
-#incldue <string_view>
+#include <string_view>
 
 // ----------------------------------------------------------------------------
 
